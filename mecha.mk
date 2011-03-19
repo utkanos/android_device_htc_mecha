@@ -111,7 +111,7 @@ PRODUCT_COPY_FILES += \
     device/htc/mecha/dsp/AIC3254_REG_DualMicXD01.csv:system/etc/AIC3254_REG_DualMicXD01.csv \
     device/htc/mecha/dsp/AIC3254_REG_DualMicXD02.csv:system/etc/AIC3254_REG_DualMicXD02.csv \
     device/htc/mecha/dsp/AdieHWCodec.csv:system/etc/AdieHWCodec.csv \
-    device/htc/mecha/dsp/AdieBTID.csv:system/etc/AdieBTID.csv \
+    device/htc/mecha/dsp/AudioBTID.csv:system/etc/AudioBTID.csv \
     device/htc/mecha/dsp/CodecDSPID.txt:system/etc/CodecDSPID.txt \
     device/htc/mecha/dsp/CodecDSPID_BCLK.txt:system/etc/CodecDSPID_BCLK.txt \
     device/htc/mecha/dsp/HP_Audio.csv:system/etc/HP_Audio.csv \
